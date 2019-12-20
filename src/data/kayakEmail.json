@@ -1,0 +1,40 @@
+{
+    "title": "Fly to Ireland with less than $700 round trip plus more",
+    "dealOfTheDay" : {
+        "location": "Ireland",
+        "description": "8 days with air, hotel, and car rental. Use promo code CFDL11 to save. Price reflects NYC depature, other cities available.",
+        "saveAmount": "Save $110 with code",
+        "tinyInfo": "Gate 1 Travel",
+        "price": "649",
+        "link": "#!",
+        "image": "/assets/img/kayak_files/ireland.png"
+    },
+    "offers": [{
+        "location": "Cancun",
+        "description": "4 nights with air and Melody Maker Cancun stay. Price reflects MIA depature, other cities available.",
+        "saveAmount": "Save up to 65%",
+        "tinyInfo": "CheapCaribbean.com",
+        "price": "689",
+        "link": "#!",
+        "image": "/assets/img/kayak_files/cancun.png"
+    },
+    {
+        "location": "China",
+        "description": "Spend 7 Nights in the Heart of Beijing.",
+        "saveAmount": "Save up to 34%",
+        "tinyInfo": "ChinaAir.com",
+        "price": "950",
+        "link": "#!",
+        "image": "/assets/img/kayak_files/china.jpg"
+    },
+    {
+        "location": "London",
+        "description": "Visit the Castles of London",
+        "saveAmount": "Save up to 45%",
+        "tinyInfo": "LondonStays.com",
+        "price": "1200",
+        "link": "#!",
+        "image": "/assets/img/kayak_files/london.png"
+    }
+]
+}
